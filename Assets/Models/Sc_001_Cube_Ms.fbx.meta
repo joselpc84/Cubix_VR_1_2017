@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 0a31762524d59ab40b1ffa723dade8f2
+timeCreated: 1482341495
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CubicSpace_REF:BottomPortal
+    100002: CubicSpace_REF:BottomPortal_CTRL
+    100004: CubicSpace_REF:BottomPortal_joint1
+    100006: CubicSpace_REF:BottomPortal_joint10
+    100008: CubicSpace_REF:BottomPortal_joint11
+    100010: CubicSpace_REF:BottomPortal_joint12
+    100012: CubicSpace_REF:BottomPortal_joint2
+    100014: CubicSpace_REF:BottomPortal_joint3
+    100016: CubicSpace_REF:BottomPortal_joint4
+    100018: CubicSpace_REF:BottomPortal_joint5
+    100020: CubicSpace_REF:BottomPortal_joint6
+    100022: CubicSpace_REF:BottomPortal_joint7
+    100024: CubicSpace_REF:BottomPortal_joint8
+    100026: CubicSpace_REF:BottomPortal_joint9
+    100028: CubicSpace_REF:BottomPortalLowerLeft
+    100030: CubicSpace_REF:BottomPortalLowerRight
+    100032: CubicSpace_REF:BottomPortalUpperLeft
+    100034: CubicSpace_REF:BottomPortalUpperRight
+    100036: CubicSpace_REF:Cubic_Bottom_Hole
+    100038: CubicSpace_REF:Cubic_Cube_Closed
+    100040: CubicSpace_REF:Cubic_Cube_Open
+    100042: CubicSpace_REF:Cubic_GEO
+    100044: CubicSpace_REF:Cubic_Top_Hole
+    100046: CubicSpace_REF:GEO_Bottom
+    100048: CubicSpace_REF:GEO_Newborn
+    100050: CubicSpace_REF:NewbornPortal
+    100052: CubicSpace_REF:NewbornPortal_CTRL
+    100054: CubicSpace_REF:NewbornPortal_joint1
+    100056: CubicSpace_REF:NewbornPortal_joint10
+    100058: CubicSpace_REF:NewbornPortal_joint11
+    100060: CubicSpace_REF:NewbornPortal_joint12
+    100062: CubicSpace_REF:NewbornPortal_joint2
+    100064: CubicSpace_REF:NewbornPortal_joint3
+    100066: CubicSpace_REF:NewbornPortal_joint4
+    100068: CubicSpace_REF:NewbornPortal_joint5
+    100070: CubicSpace_REF:NewbornPortal_joint6
+    100072: CubicSpace_REF:NewbornPortal_joint7
+    100074: CubicSpace_REF:NewbornPortal_joint8
+    100076: CubicSpace_REF:NewbornPortal_joint9
+    100078: CubicSpace_REF:NewbornPortalLowerLeft
+    100080: CubicSpace_REF:NewbornPortalLowerRight
+    100082: CubicSpace_REF:NewbornPortalUpperLeft
+    100084: CubicSpace_REF:NewbornPortalUpperRight
+    100086: CubicSpace_REF:Portals
+    100088: //RootNode
+    400000: CubicSpace_REF:BottomPortal
+    400002: CubicSpace_REF:BottomPortal_CTRL
+    400004: CubicSpace_REF:BottomPortal_joint1
+    400006: CubicSpace_REF:BottomPortal_joint10
+    400008: CubicSpace_REF:BottomPortal_joint11
+    400010: CubicSpace_REF:BottomPortal_joint12
+    400012: CubicSpace_REF:BottomPortal_joint2
+    400014: CubicSpace_REF:BottomPortal_joint3
+    400016: CubicSpace_REF:BottomPortal_joint4
+    400018: CubicSpace_REF:BottomPortal_joint5
+    400020: CubicSpace_REF:BottomPortal_joint6
+    400022: CubicSpace_REF:BottomPortal_joint7
+    400024: CubicSpace_REF:BottomPortal_joint8
+    400026: CubicSpace_REF:BottomPortal_joint9
+    400028: CubicSpace_REF:BottomPortalLowerLeft
+    400030: CubicSpace_REF:BottomPortalLowerRight
+    400032: CubicSpace_REF:BottomPortalUpperLeft
+    400034: CubicSpace_REF:BottomPortalUpperRight
+    400036: CubicSpace_REF:Cubic_Bottom_Hole
+    400038: CubicSpace_REF:Cubic_Cube_Closed
+    400040: CubicSpace_REF:Cubic_Cube_Open
+    400042: CubicSpace_REF:Cubic_GEO
+    400044: CubicSpace_REF:Cubic_Top_Hole
+    400046: CubicSpace_REF:GEO_Bottom
+    400048: CubicSpace_REF:GEO_Newborn
+    400050: CubicSpace_REF:NewbornPortal
+    400052: CubicSpace_REF:NewbornPortal_CTRL
+    400054: CubicSpace_REF:NewbornPortal_joint1
+    400056: CubicSpace_REF:NewbornPortal_joint10
+    400058: CubicSpace_REF:NewbornPortal_joint11
+    400060: CubicSpace_REF:NewbornPortal_joint12
+    400062: CubicSpace_REF:NewbornPortal_joint2
+    400064: CubicSpace_REF:NewbornPortal_joint3
+    400066: CubicSpace_REF:NewbornPortal_joint4
+    400068: CubicSpace_REF:NewbornPortal_joint5
+    400070: CubicSpace_REF:NewbornPortal_joint6
+    400072: CubicSpace_REF:NewbornPortal_joint7
+    400074: CubicSpace_REF:NewbornPortal_joint8
+    400076: CubicSpace_REF:NewbornPortal_joint9
+    400078: CubicSpace_REF:NewbornPortalLowerLeft
+    400080: CubicSpace_REF:NewbornPortalLowerRight
+    400082: CubicSpace_REF:NewbornPortalUpperLeft
+    400084: CubicSpace_REF:NewbornPortalUpperRight
+    400086: CubicSpace_REF:Portals
+    400088: //RootNode
+    2300000: CubicSpace_REF:Cubic_Bottom_Hole
+    2300002: CubicSpace_REF:Cubic_Cube_Closed
+    2300004: CubicSpace_REF:Cubic_Cube_Open
+    2300006: CubicSpace_REF:Cubic_Top_Hole
+    3300000: CubicSpace_REF:Cubic_Bottom_Hole
+    3300002: CubicSpace_REF:Cubic_Cube_Closed
+    3300004: CubicSpace_REF:Cubic_Cube_Open
+    3300006: CubicSpace_REF:Cubic_Top_Hole
+    4300000: CubicSpace_REF:Cubic_Top_Hole
+    4300002: CubicSpace_REF:Cubic_Bottom_Hole
+    4300004: CubicSpace_REF:Cubic_Cube_Closed
+    4300006: CubicSpace_REF:Cubic_Cube_Open
+    4300008: CubicSpace_REF:NewbornPortalUpperRight
+    4300010: CubicSpace_REF:NewbornPortalLowerRight
+    4300012: CubicSpace_REF:NewbornPortalLowerLeft
+    4300014: CubicSpace_REF:NewbornPortalUpperLeft
+    4300016: CubicSpace_REF:BottomPortalUpperRight
+    4300018: CubicSpace_REF:BottomPortalLowerRight
+    4300020: CubicSpace_REF:BottomPortalLowerLeft
+    4300022: CubicSpace_REF:BottomPortalUpperLeft
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: CubicSpace_REF:BottomPortalLowerLeft
+    13700002: CubicSpace_REF:BottomPortalLowerRight
+    13700004: CubicSpace_REF:BottomPortalUpperLeft
+    13700006: CubicSpace_REF:BottomPortalUpperRight
+    13700008: CubicSpace_REF:NewbornPortalLowerLeft
+    13700010: CubicSpace_REF:NewbornPortalLowerRight
+    13700012: CubicSpace_REF:NewbornPortalUpperLeft
+    13700014: CubicSpace_REF:NewbornPortalUpperRight
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
